@@ -19,7 +19,7 @@ logs/
 smarty/
 celerybeat-*
 dump.rdb
-media/
+media/rosoft
 src/*
 .cache
 .coverage
